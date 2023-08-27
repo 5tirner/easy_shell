@@ -20,3 +20,6 @@ Such as command execution.
 - Command parsing and execution.
 - Support for exit and env built_ins commands.
 - Execute many command in the same time ` ; ` support.
+
+
+## There is an explanation of every function inside the file, if you want to make your simple command line inteface it's a good thing for you to explore it.
